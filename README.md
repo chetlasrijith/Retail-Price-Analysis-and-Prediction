@@ -141,18 +141,6 @@ This project includes:
 
 ---
 
-## 📁 Project Structure
-
-├── data/
-├── notebooks/
-├── visuals/
-├── retail_price_analysis.ipynb
-├── README.md
-└── requirements.txt
-
-
----
-
 ## 💡 Future Improvements
 
 - Add ARIMA/Prophet for dedicated forecasting  
